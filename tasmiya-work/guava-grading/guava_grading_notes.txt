@@ -1,0 +1,5 @@
+Guava Grading System
+Freshness model: Reused from orange CNN
+Reason: No fresh/rotten guava dataset available
+Approach: Transfer learning / model reuse
+Grades: A (Best), B (Good), C (Fair), D (Bad)
